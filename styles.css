@@ -20,7 +20,7 @@ header {
     border-radius: 20px;
 }
 
-.latest-news {
+.latest-news-section {
     vertical-align:top;
     background-color: white;
     display:inline-block;
@@ -29,7 +29,7 @@ header {
     border-radius:20px;
     }
 
-.pic-news{
+.pictorial-news-section{
     vertical-align:top;
   display:inline-block;
   background-color: white;
@@ -45,6 +45,6 @@ header {
     margin-top:10px;
 }
 
-.pic-news img{
+.pictorial-news-section img{
     margin-top:10px;
 }
